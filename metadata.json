@@ -1,0 +1,5 @@
+{
+  "name": "Offline Todo App",
+  "description": "A PWA todo list that works offline and syncs with a server.",
+  "requestFramePermissions": []
+}
